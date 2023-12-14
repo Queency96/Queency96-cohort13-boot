@@ -3,36 +3,13 @@
 }
 
 body{
-    background-color: #222 !important;
+    background-color: #7a6d6d !important;
 }
 
-.bg-body-secondary{
-    margin-top: 8px !important; 
-    margin-bottom: 8px !important; 
+.cont :nth-child(2){
+    margin-left: 20px;
 }
 
-.col-sm-4{
-    margin-right: 5px;
-    width: 40% !important;
-} 
 
-
-.col-sm-8{
-    width: 59% !important;
-    margin-left: 5px;
-    background-color: #222 !important;
-}
-
-@media  screen and (max-width: 1200px){
-    .col-sm-4{
-        width: 100% !important;
-        margin: 0px;
-    }
-
-    .col-sm-8{
-        width: 100% !important;
-        margin: 0px;
-    }
-}
 
 
