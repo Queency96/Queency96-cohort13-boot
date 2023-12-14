@@ -23,5 +23,16 @@ body{
     background-color: #222 !important;
 }
 
+@media  screen and (max-width: 1200px){
+    .col-sm-4{
+        width: 100% !important;
+        margin: 0px;
+    }
+
+    .col-sm-8{
+        width: 100% !important;
+        margin: 0px;
+    }
+}
 
 
