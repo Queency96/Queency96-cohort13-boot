@@ -1,0 +1,11 @@
+.alert i{
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.alert{
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    gap: 10px;
+}
